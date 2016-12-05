@@ -1,7 +1,7 @@
 # GoNotify-Development-Env
 Based upon the official GCC espressif LUBUNTU development environement
 
-1) Install Virtualbox
+1) Install Virtualbox<br>
 2) Download the virtualbox machine here:
 3) unzip the file
 4) Start virtualbox and Machine ==> Add the virtualbox file
